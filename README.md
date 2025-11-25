@@ -24,8 +24,8 @@ Implement the Monte Carlo method to estimate state values.
 Compare Q-Learning policy and state values with Monte Carlo results for the given RL environment.
 
 ## Q LEARNING FUNCTION
-### Name: Bharath Raj P
-### Register Number: 212223230031
+### Name: MUKESH R
+### Register Number: 212223240100
 ```
 def q_learning(env, 
                gamma=1.0,
